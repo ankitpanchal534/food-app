@@ -1,0 +1,14 @@
+.all-products-in-cart {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.cart-empty-msg {
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px;
+}
+.final-bill {
+  padding: 10px;
+}

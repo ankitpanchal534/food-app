@@ -1,0 +1,27 @@
+.header-content {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  padding: 10px;
+  align-content: center;
+  align-items: center;
+  background-color: darkblue;
+}
+.header-content h2 {
+  cursor: pointer;
+}
+.Navlink-header {
+  color: white;
+  text-decoration: none;
+}
+.cart-length-circle {
+  position: absolute;
+  top: 28px;
+  right: 7px;
+  background-color: lightgrey;
+  color: black;
+  border: 2px solid black;
+  font-size: smaller;
+  padding: 0px 5px;
+  border-radius: 100%;
+}

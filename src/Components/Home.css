@@ -1,0 +1,15 @@
+.home-page {
+  text-align: center;
+}
+.welcome {
+  font: 60px Arial, sans-serif;
+}
+.go-btn {
+  height: 30px;
+  width: 100px;
+  background-color: darkblue;
+  border: none;
+  border-radius: 5px 5px 5px 5px;
+  color: white;
+  text-align: center;
+}
