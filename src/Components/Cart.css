@@ -1,9 +1,3 @@
-.all-products-in-cart {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
 .cart-empty-msg {
   font-size: 2rem;
   font-family: Arial, Helvetica, sans-serif;
@@ -11,4 +5,16 @@
 }
 .final-bill {
   padding: 10px;
+}
+
+.pay-btn {
+  padding: 10px;
+  width: 300px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+.cart-parent {
+  display: flex;
+  justify-content: center;
 }
